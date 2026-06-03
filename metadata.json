@@ -1,0 +1,6 @@
+{
+  "name": "Pass Generator",
+  "description": "یک وب‌سایت تک‌صفحه‌ای با تم هکری و افکت ماتریکس برای ساخت پسوردهای به شدت امن و کاملا سفارشی‌سازی شده به صورت دوزبانه (Farsi/English).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
